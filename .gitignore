@@ -1,0 +1,9 @@
+.vs/
+Application Files/
+deploy/
+packages/
+sitemap_updater/bin/
+sitemap_updater/obj/
+sitemap_updater/sitemap_updater_TemporaryKey.pfx
+sitemap_updater/sitemap_updater.csproj.user
+sitemap_updater/appsettings.personal
